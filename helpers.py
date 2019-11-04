@@ -60,8 +60,8 @@ def get_least_norm_matrices(show=False):
     A = Q.T @ Λ @ Q
 
     # Build Linear Dynamic System matrices
-    B = np.random.randn(N, 2)
     C = np.random.rand(2, A.shape[0])
+    B = np.random.randn(N, 2)
 
     # Give the system a kick and see what happens - the initial state will be an arbitrary displacement from x = 0
     if show:
@@ -83,4 +83,4 @@ def get_least_norm_matrices(show=False):
 
         plt.show()
 
-    return A, B, C
+    return A, B, C, N
