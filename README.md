@@ -19,6 +19,6 @@ There is a requirements.txt file for convenience if you want to setup an environ
 
 ### Viewing the Notebooks
 
-I've noticed that there are some rendering problems when viewing the notebooks on Github. I'm working to correct this, but hopefully the materials should work if you download them and run Jupyter locally...
+I've noticed that there are some rendering problems when viewing the notebooks on Github. I'm working to correct this, but they look fine on Binder and hopefully the materials should work if you download them and run Jupyter locally...
 
 Please feel free to contact me with feedback and corrections!
