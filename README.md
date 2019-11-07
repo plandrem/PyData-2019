@@ -11,7 +11,11 @@ These notebooks are *faaaaaaaar* from comprehensive. I've skipped a lot of forma
 
 ### Python Setup
 
-Everything in this talk can be done with a basic installation of Numpy and Scipy. The version should not be important. Scipy is used exclusively for some convenience functions, and Matplotlib is included only for visualization purposes. Neither are necessary for linear algebra. This notebook was written using Python 3.6, Numpy 1.16.4, Scipy 1.2.1, Matplotlib 3.1.1, notebook 5.7.8, and jupyter 1.0.0.
+> The easiest way to view the notebooks is with the Binder link above (no setup required)
+
+Everything in this talk can be done with a basic installation of Numpy and Scipy. The version should not be important. Scipy is used exclusively for some convenience functions, and Matplotlib is included only for visualization purposes. Neither are necessary for linear algebra. This notebook was written using Python 3.6, Numpy 1.16.4, Scipy 1.2.1, Matplotlib 3.1.1, notebook 5.7.8, and jupyter 1.0.0. 
+
+There is a requirements.txt file for convenience if you want to setup an environment locally - this doesn't include Jupyter though.
 
 ### Viewing the Notebooks
 
